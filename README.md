@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaramohamadi&label=Profile%20views&color=0e75b6&style=flat" alt="yaramohamadi" /> </p>
 
-- 🔭 Currently working on **Deep Learning Theory, Explainable ML, Fairness, and Causal Inference**, looking to collaborate on **data related projects**
+- 🔭 Currently working on **Deep Learning Theory, Explainable ML, Fairness, and Causal Inference**, and looking to collaborate on these topics and generally on **data** related projects.
 - 🎸🐒 When I don't work, you can find me exploring my passion of playing the blues guitar or wandering in nature faraway from all the human hussle
 
 <h3 align="left">Connect with me:</h3>
