@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yara m. Bahram</h1>
-<h3 align="center">A passionate AI researcher from Iran</h3>
+<h3 align="center">An AI enthusiast from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaramohamadi&label=Profile%20views&color=0e75b6&style=flat" alt="yaramohamadi" /> </p>
 
