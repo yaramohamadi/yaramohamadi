@@ -12,10 +12,10 @@ src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/
 alt="https://yaramohamadi.github.io/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yara-mohammadi-a850ab12a/" target="blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yara-mohammadi-a850ab12a/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucdsfbq4krgahk2-huqs1wla" target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdsfbq4krgahk2-huqs1wla" height="30" width="40" /></a>
  <a href="https://twitter.com/https://twitter.com/bahramyara" target="blank"><img align="center" 
  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bahramyara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucdsfbq4krgahk2-huqs1wla" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdsfbq4krgahk2-huqs1wla" height="30" width="40" /></a>
   <a href="https://open.spotify.com/user/yara.mohamadi" target="blank"><img align="center" 
   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="https://open.spotify.com/user/yara.mohamadi" height="30" width="40" /></a>
 </p>
