@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaramohamadi&label=Profile%20views&color=0e75b6&style=flat" alt="yaramohamadi" /> </p>
 
-- 🔭 My interests are **Deep Learning Theory, Trustworthy ML (Explainability, Robustness, and Fairness), and Causal Inference**. Looking to collaborate on these topics and generally on **data** related projects and projects in the application of ***vision***.
+- 🔭 My interests are **Deep Learning Theory, Trustworthy ML (Privacy, Explainability, Robustness, and Fairness), and Causal Inference**. Looking to collaborate on these topics and generally on **data** related projects and projects in the application of ***vision***.
 - 🎸🐒 When I don't work, you can find me exploring my passion of playing the blues guitar or wandering in the nature faraway from the human hussle.
 
 <h3 align="left">Connect with me:</h3>
