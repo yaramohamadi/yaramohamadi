@@ -4,9 +4,7 @@
 
 
 - 🔭 My interests are **ML/DL Theory and Trustworthy ML (Privacy, Explainability, Robustness, and Fairness)**. Looking to collaborate on these topics and generally on **data** related projects and projects in the application of ***vision***.
-- 🎸🐒 When I don't work, you can find me exploring my passion of playing the blues guitar or wandering in the nature faraway from the human hussle.
-
-<h3 align="left">Connect with me:</h3>
+- 🎸🐒 When I don't work, you can find me exploring my passion of playing the blues guitar or just doing monkey stuff. <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://yaramohamadi.github.io/" target="blank"><img align="center" 
 src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" 
