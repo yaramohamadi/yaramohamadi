@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaramohamadi&label=Profile%20views&color=0e75b6&style=flat" alt="yaramohamadi" /> </p>
 
 
-- 🔭 My interests are **ML/DL Theory and Trustworthy ML (Privacy, Explainability, Robustness, and Fairness)**. Looking to collaborate on these topics and generally on **data** related projects and projects in the application of ***vision***.
+- 🔭 My interests are **Generative Models, Deep Learning, Computer Vision, and Trustworthy ML**. Looking to collaborate on these topics, specifically for creative applications.
 - 🎸🐒 When I don't work, you can find me exploring my passion of playing the blues guitar or just doing monkey stuff. <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://yaramohamadi.github.io/" target="blank"><img align="center" 
