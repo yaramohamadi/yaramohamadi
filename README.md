@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaramohamadi&label=Profile%20views&color=0e75b6&style=flat" alt="yaramohamadi" /> </p>
 
 
-- 🔭 **Generative Models, Deep Learning, and Computer Vision**... Do you want to use personalized multi-modal generative models for your creative applications? Are you concerned that you have limited compute power and don't have enough data? No worries, i'm here to help!
+- 🔭 **Generative Models, Deep Learning, and Computer Vision**... Do you want to build multi-modal generative models for your personal creative applications? Are you concerned that you have limited compute power and don't have enough data? No worries, i'm here to help!
 - 🎸🐒 When I don't work, you can find me exploring my passion of playing the blues guitar or just doing monkey stuff. <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://yaramohamadi.github.io/" target="blank"><img align="center" 
